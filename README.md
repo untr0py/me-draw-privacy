@@ -2,7 +2,7 @@
 
 # me draw
 
-A simple, free Android drawing app for little hands, with playful brushes and an endless canvas—offline and ad-free.
+A simple, free Android drawing app for young kids. Draw with multiple fingers on an endless canvas. Offline and ad-free.
 
 Found a bug or have an idea? [Open an issue](https://github.com/untr0py/me-draw-privacy/issues) to share problems, feature requests or closed-test feedback.
 
